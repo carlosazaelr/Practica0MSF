@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Carlos Azael Ramirez Rodriguez \[22212267]; L22212267@tectijuana.edu.mx
+Carlos A. Ramirez \[22212267]; L22212267@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
