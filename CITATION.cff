@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Carlos Azael
+    family-names: Ramirez Rodriguez
+    email: L22212267@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/carlosazaelr/Practica0MSF'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema Respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
